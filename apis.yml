@@ -1,9 +1,26 @@
 aid: tugende
 name: Tugende
-description: 'Tugende is a company surfaced as a portfolio company of partech and added to the API Evangelist
-  network as a stub for enrichment. Sector: Financial Services. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Tugende is a for-profit social enterprise founded in 2012 in Uganda
+  that uses asset finance, technology, and a customer-centric model to help
+  informal-sector entrepreneurs (MSMEs) own income-generating assets through
+  lease-to-own financing — motorcycles (boda bodas), taxis, matatus, boat engines,
+  smartphones, and small-business equipment like salon kits, fridges, and sewing
+  machines. Operating in Uganda and Kenya with 800+ full-time staff, Tugende has
+  served over 52,000 clients. Backed by Partech. Tugende publishes no public API
+  or developer program as of this profile.'
 url: https://raw.githubusercontent.com/api-evangelist/tugende/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://gotugende.com/wp-content/uploads/2020/04/tugende-homepage2.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +29,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Financial Services
+- Asset Finance
+- Lease To Own
+- Fintech
+- MSME Lending
+- Uganda
+- Kenya
+- Mobility
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,20 @@ maintainers:
 common:
 - type: Website
   url: https://gotugende.com/
+- type: Blog
+  url: https://gotugende.com/news/
+- type: Support
+  url: https://gotugende.com/contact/
+- type: Careers
+  url: https://gotugende.com/join-us/
+- type: PrivacyPolicy
+  url: https://gotugende.com/privacy-policy/
+- type: DomainSecurity
+  url: security/tugende-domain-security.yml
+- type: LLMsTxt
+  url: llms/tugende-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

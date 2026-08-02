@@ -1,0 +1,21 @@
+# Tugende
+
+> Tugende is a for-profit social enterprise founded in 2012 in Uganda that uses asset finance, technology, and a customer-centric model to help informal-sector entrepreneurs (MSMEs) own income-generating assets — motorcycles (boda bodas), taxis, matatus, boat engines, smartphones, and small-business equipment — through lease-to-own financing. Operating in Uganda and Kenya with 800+ staff, Tugende has served over 52,000 clients. Backed by Partech. Tugende publishes no public API or developer program as of 2026-07-21.
+
+## Company
+
+- [Website](https://gotugende.com/): Tugende corporate site
+- [About](https://gotugende.com/about/): Mission, values, and leadership team
+- [Products & Services](https://gotugende.com/products-and-services/): Lease-to-own products — bodas, taxis, matatus, boat engines, smartphones, salon equipment, fridges, sewing machines
+- [News](https://gotugende.com/news/): Company news and updates
+- [Careers](https://gotugende.com/join-us/): Jobs at Tugende
+- [Contact](https://gotugende.com/contact/): Contact Tugende
+- [Privacy Policy](https://gotugende.com/privacy-policy/): Privacy policy
+
+## APIs
+
+- No public APIs, developer portal, or machine-readable specs were found (probed /.well-known/*, /llms.txt, and api./developer./developers./docs.gotugende.com — none exist).
+
+## Profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/tugende/refs/heads/main/apis.yml): API Evangelist network profile for Tugende

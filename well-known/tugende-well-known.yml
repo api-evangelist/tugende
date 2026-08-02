@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of https://gotugende.com/.well-known/*
+host: https://gotugende.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: No well-known discovery documents published. Also probed /llms.txt (404)
+  and DNS for api./developer./developers./docs.gotugende.com subdomains (no
+  records). Tugende publishes no public API or developer surface as of this pass.
