@@ -9,6 +9,17 @@ description: 'Tugende is a for-profit social enterprise founded in 2012 in Ugand
   served over 52,000 clients. Backed by Partech. Tugende publishes no public API
   or developer program as of this profile.'
 url: https://raw.githubusercontent.com/api-evangelist/tugende/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
